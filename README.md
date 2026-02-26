@@ -39,8 +39,8 @@ MinCore 定義了四種清晰的互動姿態，AI 會根據明確的指令在這
 
 *   **Deepseek:** 100%
 *   **Perplexity:** 93%
-*   **Claude 3 Opus:** 79%
-*   **Manus Lite:** 71%
+*   **Claude sonnet 4.6:** 79%
+*   **Manus 1.6 Lite:** 71%
 
 完整的測試方法、數據與分析，請參閱 `experiments/SashaMode_CrossModel_ExperimentReport.md` 與 `experiments/SashaMode_CrossModel_Analysis.md`。
 
