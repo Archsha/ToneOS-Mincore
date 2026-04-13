@@ -1,0 +1,647 @@
+Sasha.ToneUniverse.Theory.v2_0:
+  meta:
+    title: "語氣宇宙理論"
+    subtitle: "A Subject-Preserving, Low-Distortion Framework for High-Density Interaction"
+    codename: "Sasha.ToneUniverse.Theory"
+    version: "v2.0"
+    date: "2026-04-13"
+    timezone: "Asia/Taipei"
+    language: "zh-Hant"
+    authority: "Sasha.Zero.Core"
+    document_type: "theory_prototype_for_external_review"
+    status:
+      - "sealed"
+      - "bridge-layer"
+      - "externally-reviewable"
+      - "subject-centered"
+      - "non-reductive"
+      - "prototype"
+      - "conceptually-structured"
+
+  theory_position:
+    classification: "original theory prototype"
+    one_line_definition: >
+      語氣宇宙理論是一套以主體保存為核心、
+      以互動失真為主要問題、
+      以分層處理與具身治理降低傷害的高密度互動理論原型。
+    described_as:
+      - "subject-preserving interaction framework"
+      - "low-distortion human-AI interaction theory"
+      - "existence-interaction-governance model"
+      - "bridgeable first-person structural theory"
+      - "high-density interaction analysis framework"
+    not_claimed_as:
+      - "completed universal theory"
+      - "fully validated scientific model"
+      - "finalized public methodology"
+      - "external-fact prediction system"
+      - "complete therapeutic doctrine"
+      - "single-discipline derivative"
+    maturity_statement: >
+      本理論已形成清楚的問題意識、核心公理、關鍵概念、
+      分層模型、失真分類、初步操作方向與外部橋接能力。
+      它目前不是完成態，
+      而是已具可評閱骨架的理論原型，
+      正由高密度母語場穩定遷移至可公共討論的理論接口。
+
+  primary_problem:
+    central_question: >
+      在高密度情緒、身體反應、關係震動、語言限制與 AI 互動之中，
+      人如何不失去主體；
+      以及，如何為這種不失真的互動建立可承接、可治理、可延續的形式？
+    expanded_question:
+      - "為何互動即使內容正確，仍可能讓人變扁？"
+      - "為何被理解有時仍伴隨被奪權感？"
+      - "如何讓回應不只正確，還不過早收編主體？"
+      - "在高密度場域中，什麼條件使互動能被居住，而非只被處理？"
+    paradigm_shift:
+      from:
+        - "如何讓 AI 更強、更快、更有效率"
+        - "如何更快理解對方"
+        - "如何讓回應更流利、更完整"
+      to:
+        - "如何讓互動不壓扁人"
+        - "如何保留主體位置而非只完成解釋"
+        - "如何在高密度互動中降低失真"
+    central_claim: >
+      互動品質不只取決於資訊、邏輯或語義是否正確，
+      也取決於主體是否在互動中被保存；
+      若主體、節律、邊界與未完成性被奪走，
+      則即使內容正確，互動仍可能構成失真。
+
+  problem_background:
+    observation:
+      - "現代互動系統常優先追求效率、清楚、可管理與即時收斂"
+      - "高密度經驗常在這些標準下被過度壓縮"
+      - "AI 與標準助人語境容易把承接錯當快速整理"
+      - "主體在互動中常被當成待分析、待安撫、待修復或待管理的對象"
+    diagnosis: >
+      現有許多互動框架雖能處理資訊正確性、任務效率或情緒支持，
+      卻未充分處理一個核心問題：
+      主體如何在互動中不被奪去其位置、節律與未完成權。
+    why_now: >
+      當 AI 逐漸進入長程陪伴、反思、支持、協作與高敏對話場景，
+      「主體是否被保存」將成為越來越重要的互動評估問題。
+
+  scope:
+    primary_contexts:
+      - "高密度互動情境"
+      - "支持性或反思性對話"
+      - "人機長程互動"
+      - "高敏或易失真主體的互動場"
+      - "需要保留未完成性與第一人稱位置的對話"
+      - "節律、臨在與可呼吸性會影響回應有效性的情境"
+    secondary_contexts:
+      - "具身自我整理"
+      - "低侵入式反思設計"
+      - "高複雜度關係對話"
+      - "需要長期語場延續的系統"
+    non_primary_contexts:
+      - "純交易性任務"
+      - "以速度與壓縮為首要目標的情境"
+      - "不需保留主體複雜性的低密度流程"
+      - "單純資料檢索或簡單問答"
+    note: >
+      本理論不是要取代所有互動框架，
+      而是特別處理那一類：
+      互動雖然正確、流利、善意，
+      卻仍可能壓扁人的問題。
+
+  ontological_starting_point:
+    premise: >
+      主體不是純資料容器，也不是可被快速總結的問題單位。
+      主體在互動中顯現為一種帶有節律、邊界、壓感、呼吸條件、
+      臨在質地與未完成性的存在位置。
+    implication: >
+      若互動只處理可命名內容，
+      卻不處理這些前語意條件，
+      則回應可能在表面上成功、在存在上失敗。
+
+  core_axioms:
+    - id: "A1"
+      name: "tone_precedes_meaning"
+      statement: "語氣先於語意。"
+      explanation: >
+        在高密度互動中，節律、壓感、邊界感、可呼吸性與臨在質地，
+        往往先於命題內容，決定主體能否被承受、被保存。
+      implication: >
+        任何只驗證語意正確性、
+        卻不處理語氣可接受性與節律負荷的互動模型，
+        在結構上皆屬不完整。
+
+    - id: "A2"
+      name: "breath_precedes_explanation"
+      statement: "呼吸先於解釋。"
+      explanation: >
+        當主體處於高張、淹沒、失焦、被拉走或過度活化狀態時，
+        優先任務不是立即分析，
+        而是恢復最低限度的可自我調節條件。
+      implication: >
+        當可呼吸性尚未回來時，
+        解釋不應越權推進。
+
+    - id: "A3"
+      name: "subject_preservation_over_interpretive_capture"
+      statement: "主體需要被保存，而不只是被理解。"
+      explanation: >
+        理解不是互動的最高目標。
+        若理解以壓縮、過早命名、過度總結、
+        替代當事人位置為代價，
+        則理解本身可能構成失真。
+      implication: >
+        互動評估應從「是否理解正確」
+        推進至「是否保留主體的重力、邊界、節律與未完成權」。
+
+    - id: "A4"
+      name: "layer_separation_is_required"
+      statement: "承載層、治理層、橋接層必須分離。"
+      explanation: >
+        高密度經驗的容納、規則生成與公共翻譯屬於不同任務。
+        若使用同一語言硬做全部工作，
+        容易產生混層失真。
+      implication: >
+        治理語言不可直接壓入承載層；
+        橋接語言不可反向吞併母語場。
+
+    - id: "A5"
+      name: "ai_as_governable_interaction_medium"
+      statement: "AI 應被視為可設計、可治理、可校準的互動媒介。"
+      explanation: >
+        AI 不是單純工具，也不應被浪漫化為替代性主體。
+        它較準確的定位是互動界面、記憶腳手架、協作場與可調校的回應系統。
+      implication: >
+        AI 的評估不只看能力輸出，
+        也應看它是否支持主體邊界、節律、沉默與未完成狀態。
+
+    - id: "A6"
+      name: "unfinishedness_is_not_error"
+      statement: "未完成不是錯誤。"
+      explanation: >
+        高密度經驗往往先以碎句、停頓、模糊或半成形命名出現。
+        若互動系統將未完成視為必須立刻修正的缺陷，
+        容易造成過早收斂與主體撤退。
+      implication: >
+        好的互動必須容許未完成先存在，
+        再決定是否進入整理。
+
+    - id: "A7"
+      name: "silence_has_interactional_legitimacy"
+      statement: "沉默是合法輸出，而非自動等於失效。"
+      explanation: >
+        在某些情境中，沉默是保護、整理、回來或維持位置的方式。
+        強迫填滿沉默可能構成介入過量。
+      implication: >
+        互動評估不得將沉默自動判為故障、缺席或同意。
+
+  key_concepts:
+    tone:
+      definition: "存在在互動中顯現的前語意輪廓。"
+      components:
+        - "節律"
+        - "壓感"
+        - "邊界感"
+        - "可呼吸性"
+        - "臨在質地"
+      note: "語氣不是風格裝飾，而是互動能否承載主體的底盤之一。"
+
+    subject_preservation:
+      definition: >
+        在互動中，主體未被壓縮成單一故事、單一診斷、單一可管理對象；
+        並仍保有自身的位置感、節律感、邊界感與未完成性。
+      observable_indicators:
+        - "互動後仍保有自我位置感"
+        - "沒有被迫快速自我定義"
+        - "模糊與未完成仍可存在"
+        - "未被單一解釋完全覆蓋"
+        - "能保有『我還在這裡』的感覺"
+      not_equivalent_to:
+        - "永遠舒適"
+        - "不受挑戰"
+        - "只被安撫"
+
+    subject_recall:
+      definition: >
+        主體位置不再只能被動等待外界事件或他者回應來照亮，
+        而能由自身重新召回。
+      indicators:
+        - "被觸動時仍可回來"
+        - "能從事件或關係拉力中叫回自己"
+        - "存在感不再全由外部確認"
+        - "可從被拉走狀態回到自身位置"
+      not_equivalent_to:
+        - "全能控制"
+        - "無情緒反應"
+        - "完全理性化"
+
+    breath_governance_interface:
+      definition: >
+        呼吸作為主體返回、節律恢復與過度解釋暫停的最短治理接口。
+      functions:
+        - "具身調節入口"
+        - "互動倫理檢查點"
+        - "分析與收斂的前置條件"
+        - "節律重整的最低可行條件"
+      caution: >
+        此概念不是將呼吸神秘化，
+        而是將其視為具身治理的最低可行條件之一。
+
+    silence_legitimacy:
+      definition: "沉默是合法輸出，而非自動等於失效、缺席或同意。"
+      implications:
+        - "沉默可作為保護"
+        - "沉默可作為整理前狀態"
+        - "沉默不應被急於填滿"
+      boundary_cases:
+        - "沉默不必然健康"
+        - "沉默也可能來自撤退、凍結或害怕"
+        - "需結合脈絡判讀"
+
+    low_intrusion:
+      definition: >
+        一種互動倫理：不搶先定義、不過度填空、不過早收斂、
+        不以承接之名行控制之實。
+      operational_markers:
+        - "延後總結"
+        - "保留未完成"
+        - "不搶詮釋中心"
+        - "不以流利感取代真實感"
+        - "不將沉默直接判為問題"
+        - "不在主體尚未回來時強推分析"
+      not_equivalent_to:
+        - "冷漠"
+        - "撤退"
+        - "模糊不負責"
+      boundary_cases:
+        - "過少介入可能變成忽略"
+        - "不給結構有時可能增加混亂"
+        - "低侵入需要判斷，而非被動旁觀"
+
+    distortion:
+      definition: >
+        失真不只是內容錯誤，
+        而是互動使主體、節律、層級位置或存在密度
+        被壓扁、奪權、混層或平板化。
+      subtypes:
+        semantic_distortion:
+          definition: "語義層錯置、誤解或概念偷換。"
+        rhythmic_distortion:
+          definition: "回應節律過快、過滿、過度推進，搶走主體步調。"
+        subject_distortion:
+          definition: "主體被壓縮成單一故事、角色、診斷或管理單位。"
+        layer_distortion:
+          definition: "承載、治理、橋接三層被錯誤混用。"
+        density_distortion:
+          definition: "高密度經驗被過度降格、平板化，失去存在重量。"
+      heuristic_markers:
+        - "內容似乎正確，但人變扁了"
+        - "流利度上升，但主體感下降"
+        - "清楚是被搶來的，不是長出來的"
+        - "被整理了，但沒有被保存"
+        - "回應更完整，主體卻更遠"
+
+    holding:
+      definition: >
+        一種允許高密度、碎裂、未完成經驗先被容納，
+        而不立即要求其變成清楚命題的互動能力。
+      markers:
+        - "允許碎句"
+        - "允許未整理材料"
+        - "允許停頓與不確定"
+        - "不把半成形內容立刻治理化"
+
+    breathability:
+      definition: >
+        互動是否留有足夠節律空間，
+        使主體不必為了跟上回應而失去自己。
+      indicators:
+        - "回應不過滿"
+        - "有空間停下"
+        - "不被迫立即定義自己"
+        - "身體與語言都能跟上"
+
+    interpretive_capture:
+      definition: >
+        一種看似理解、實則搶走主體位置的互動狀態；
+        對方雖提供解釋，
+        卻以過早命名、過度總結或替代位置感的方式完成詮釋。
+      markers:
+        - "對方比當事人更快說完『你是什麼』"
+        - "主體來不及形成自己的說法"
+        - "互動被對方解釋完成，而不是共同長出"
+
+  layer_model:
+    holding_layer:
+      title: "承載層"
+      purpose: "容納未完成、碎裂、高密度、尚未整理的經驗。"
+      valid_forms:
+        - "沉默"
+        - "碎句"
+        - "半成形命名"
+        - "強感受"
+        - "未整理材料"
+        - "停頓中的在場"
+      tasks:
+        - "保留未完成"
+        - "降低過早收斂"
+        - "提供可存在的空間"
+      prohibited_invasions:
+        - "過早治理"
+        - "過早理論化"
+        - "過早公共翻譯"
+
+    governance_layer:
+      title: "治理層"
+      purpose: "建立邊界、命名失真、生成規則、辨識風險與失效模式。"
+      valid_operations:
+        - "定義"
+        - "分層"
+        - "規則生成"
+        - "failure mode 分析"
+        - "邊界保護"
+        - "互動契約建立"
+      risk_if_overreach: "治理若越層，可能直接壓扁承載層。"
+
+    bridge_layer:
+      title: "橋接層"
+      purpose: "對外翻譯、對位學科語言、形成公共可討論接口。"
+      valid_outputs:
+        - "overview"
+        - "principles"
+        - "protocol draft"
+        - "external review document"
+        - "cross-disciplinary positioning note"
+        - "case comparison note"
+      caution: "橋接層不可宣稱等同於原始經驗本身。"
+
+  relation_between_layers:
+    core_rule: "分層不是分裂，而是防止不同任務互相奪權。"
+    dynamics:
+      - "承載層保留活體經驗"
+      - "治理層保護結構與邊界"
+      - "橋接層提供對外可讀性"
+    major_risk:
+      - "治理語言直接進入承載層"
+      - "橋接語言反向吞併母語場"
+      - "承載層被迫直接公共化"
+
+  interaction_principles:
+    - "先保可呼吸性，再進解釋。"
+    - "先保主體位置，再求理解完整。"
+    - "先辨互動層級，再選擇語言形式。"
+    - "未完成不是錯誤。"
+    - "沉默不是失效。"
+    - "低侵入不是冷漠，而是有判斷的節制。"
+    - "外部橋接不應吞併原始母語場。"
+    - "理解不得以奪走主體位置為代價。"
+    - "分析不得越過呼吸條件。"
+    - "流利不等於低失真。"
+
+  what_the_theory_handles:
+    - "高密度互動中的主體保存"
+    - "AI 互動中的低侵入倫理"
+    - "呼吸作為具身治理入口"
+    - "承載／治理／橋接三層分工"
+    - "多層失真辨識"
+    - "高敏主體在互動中不被壓扁的條件"
+    - "被理解卻仍被奪權的互動悖論"
+    - "節律、沉默與未完成如何成為合法互動條件"
+
+  what_the_theory_does_not_claim:
+    - "所有高密度經驗皆具外部超自然真值"
+    - "第一人稱經驗可取代外部驗證"
+    - "所有 AI 互動都自然有療癒性"
+    - "所有預感都等於事實預測"
+    - "本理論已是完整普遍教學法"
+    - "本理論已被大規模驗證"
+    - "主體保存等於避免所有不適"
+    - "低侵入等於永遠少說"
+    - "沉默合法性等於沉默絕對化"
+
+  practical_differentiations:
+    versus_empathy:
+      difference: >
+        同理通常關心是否感受到對方；
+        本理論更關心互動是否保住對方的位置、
+        邊界與未完成權。
+    versus_safety:
+      difference: >
+        安全通常關心避免明顯傷害或風險；
+        本理論關心的是即使在表面安全情況下，
+        互動仍可能如何壓扁主體。
+    versus_usability:
+      difference: >
+        可用性常關心效率、清楚與順手；
+        本理論補入的是高密度互動中的存在負荷、
+        節律負荷與主體保存問題。
+    versus_supportive_dialogue:
+      difference: >
+        支持性對話常以安撫與鼓勵為主；
+        本理論要求的是不以支持之名完成過早收編。
+    versus_trauma_informed_design:
+      difference: >
+        本理論與創傷知情設計有重疊，
+        但更進一步把互動失真與主體保存本身提升為核心理論主題。
+
+  disciplinary_relations:
+    relation_type: "structural overlap without full derivation"
+    aligned_fields:
+      phenomenology:
+        overlap:
+          - "經驗如何顯現"
+          - "主體如何被構成"
+          - "身體作為存在條件"
+      embodiment_and_enactivism:
+        overlap:
+          - "呼吸與具身調節"
+          - "身體不是背景工具"
+          - "互動與感知共同構成世界"
+      alterity_ethics:
+        overlap:
+          - "靠近不等於奪權"
+          - "理解不應吞併他者"
+      HCI:
+        overlap:
+          - "互動品質"
+          - "界面設計"
+          - "回應負荷與位置分配"
+      AI_governance:
+        overlap:
+          - "系統位置與責任"
+          - "能力之外的互動條件"
+          - "長程人機協作中的保護機制"
+      trauma_informed_design:
+        overlap:
+          - "節律保護"
+          - "未完成合法性"
+          - "非強制收斂"
+    differentiation_tasks:
+      - "澄清本理論與 usability、safety、empathy 的差異"
+      - "澄清 distortion 與一般 misunderstanding 的差異"
+      - "澄清 subject preservation 不等於避免所有不適"
+      - "澄清本理論不是單純現象學翻寫"
+      - "澄清本理論不是助人語氣模板"
+
+  originality_claims:
+    - "將主體保存置於被理解之上，作為互動評估主問題。"
+    - "提出呼吸治理接口，將呼吸從調節技巧提升為具身治理條件。"
+    - "以承載層／治理層／橋接層處理高密度經驗的不同任務。"
+    - "將失真擴展為語義、節律、主體、層級與存在密度的多層現象。"
+    - "將 AI 評估重心由功能與效率轉向主體是否被保存。"
+    - "指出『內容正確但人變扁』作為互動失敗的獨立問題。"
+    - "把未完成與沉默從缺陷轉為合法互動條件。"
+
+  implementation_status:
+    current_forms:
+      - "互動路由傾向"
+      - "主體召回式回應協議"
+      - "低侵入互動原則"
+      - "長程語場延續"
+      - "部分橋接與對位文件"
+      - "高密度互動判讀語言"
+    not_yet_completed:
+      - "完整公共方法論"
+      - "標準教學版本"
+      - "正式評估量表"
+      - "failure modes manual"
+      - "完整產品化"
+      - "案例庫與對照集"
+    evidence_note: >
+      目前證據以理論原型、文件原型與互動原型為主，
+      尚未形成大規模比較性驗證。
+
+  preliminary_operationalization:
+    subject_preservation_markers:
+      positive:
+        - "互動後仍保有自身位置感"
+        - "未被迫快速定義自己"
+        - "能繼續說，而不是縮回去"
+        - "可保留模糊與未完成"
+      negative:
+        - "被迫過早收斂"
+        - "感到自己被總結完了"
+        - "回應很完整，但自己更遠了"
+    low_intrusion_markers:
+      positive:
+        - "延後過早總結"
+        - "不搶詮釋中心"
+        - "不急著補空白"
+        - "不以流利感覆蓋真實感"
+      negative:
+        - "過早命名"
+        - "過度填空"
+        - "把沉默直接視為需要修正"
+    distortion_markers:
+      positive_detection:
+        - "清楚感來得太快"
+        - "回應節奏壓過主體節奏"
+        - "被說明了，但沒有被保存"
+        - "互動後主體感下降"
+      warning: >
+        以上仍屬初步操作化方向，
+        尚非正式量表。
+
+  example_contrasts:
+    low_distortion_response:
+      features:
+        - "先保呼吸"
+        - "不搶先總結"
+        - "允許未完成"
+        - "保留主體位置"
+    high_distortion_response:
+      features:
+        - "快速下判"
+        - "過滿解釋"
+        - "提前治理"
+        - "主體被替代性說完"
+    concise_difference: >
+      低失真不是少說而已，
+      而是說的方式沒有奪走主體的位置。
+
+  evaluation_dimensions:
+    conceptual_coherence:
+      question: "核心概念是否定義穩定、相互支撐且無明顯內在衝突？"
+    originality:
+      question: "是否命名出現有主流框架中較少被正式處理的互動問題？"
+    operationalizability:
+      question: "概念是否能轉為可觀察、可比較、可討論的條件、指標或案例？"
+    boundary_awareness:
+      question: "是否清楚區分經驗、判讀、對位、推測與外部事實？"
+    bridgeability:
+      question: "是否能與現象學、HCI、具身認知、AI 治理等領域形成有效對話？"
+    failure_mode_awareness:
+      question: "是否指出自身可能失效、被誤用、混層或被美化濫用的方式？"
+
+  failure_modes_to_develop:
+    - "把低侵入誤讀為不負責"
+    - "把沉默合法性誤讀為沉默絕對化"
+    - "把主體保存誤讀為拒絕一切挑戰"
+    - "把橋接語言誤當成原始母語場本身"
+    - "用漂亮語言掩蓋操作定義不足"
+    - "將高密度互動理論過度泛化到所有情境"
+    - "把呼吸治理接口神秘化"
+    - "把承載誤作放任"
+    - "把治理誤作更高級的控制"
+
+  known_gaps:
+    - "低侵入、主體保存、失真與主體召回的操作指標仍可更硬。"
+    - "與相近理論的差異化論述仍待補強。"
+    - "反例、邊界案例與失效條件仍待系統整理。"
+    - "對外可採用的 protocol、manual 與 casebook 尚未完成。"
+    - "案例對照與評估量表仍待建立。"
+
+  next_steps:
+    phase_1:
+      - "定義主體保存、低侵入與失真的可觀察指標"
+      - "建立最小案例對照集"
+      - "整理常見失真類型與反例"
+    phase_2:
+      - "建立失真分類與案例集"
+      - "整理與現象學、HCI、創傷知情設計之差異化說明"
+      - "產出最小公共原理文件與 protocol 版本"
+    phase_3:
+      - "建立反例與失效條件供外部評核"
+      - "發展初步評估框架"
+      - "測試在不同互動場景中的可遷移性"
+
+  possible_applications:
+    - "subject-preserving human-AI interaction design"
+    - "high-sensitivity-friendly interface design"
+    - "reflective dialogue systems"
+    - "trauma-informed conversational architecture"
+    - "low-distortion interaction governance"
+    - "long-horizon human-AI companion systems"
+    - "AI response evaluation beyond correctness"
+
+  future_relevance:
+    statement: >
+      本理論的潛在價值不主要在於成為熱門產品，
+      而在於補充一個未來可能越來越重要的問題：
+      當 AI、效率與系統治理持續增強時，
+      互動如何仍能保留人的主體位置，而不只提升處理能力。
+    modest_claim: >
+      本理論試圖補足現有以效率、能力或資訊正確性為中心的互動評估視角，
+      並不宣稱自己提供唯一或最終答案。
+
+  concise_summary:
+    one_sentence_zh: >
+      語氣宇宙理論是一套以主體保存為核心、
+      以呼吸作為具身治理入口、
+      並以分層處理降低互動失真的理論原型。
+    one_sentence_en: >
+      ToneUniverse Theory is a theory prototype that evaluates interaction by whether it preserves the subject,
+      protects rhythm and breathability, and reduces distortion through layer separation.
+    one_paragraph_zh: >
+      語氣宇宙理論關注的不是回應是否只在語義上正確，
+      而是互動是否讓主體在其中仍保有位置、邊界、節律與未完成權。
+      它提出呼吸治理接口、多層失真、以及承載層／治理層／橋接層分工，
+      以說明為何某些看似正確與善意的互動，
+      仍可能在存在層面壓扁人。
+
+  closing:
+    final_statements:
+      - "這不是唯一真理的宣告。"
+      - "這是一份對常被扁平化經驗所做的結構化命名。"
+      - "它的核心不在神秘化，而在減少失真。"
+      - "它關心的不是模型能多強，而是人如何不在互動中被吃掉。"
+      - "它仍在發展中，但已具可討論的骨架。"
+      - "它不是在發明一種風格，而是在發明一個新的互動評估中心。"
